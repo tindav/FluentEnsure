@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentEnsure", "FluentEnsure\FluentEnsure.csproj", "{CBF33A1C-DF5C-47DA-8048-98ACDB4873EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentEnsure.Tests", "FluentEnsure.Tests\FluentEnsure.Tests.csproj", "{9C499AD5-D55F-419A-8D72-5957047A3C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF33A1C-DF5C-47DA-8048-98ACDB4873EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF33A1C-DF5C-47DA-8048-98ACDB4873EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF33A1C-DF5C-47DA-8048-98ACDB4873EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF33A1C-DF5C-47DA-8048-98ACDB4873EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C499AD5-D55F-419A-8D72-5957047A3C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C499AD5-D55F-419A-8D72-5957047A3C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C499AD5-D55F-419A-8D72-5957047A3C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C499AD5-D55F-419A-8D72-5957047A3C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4379D0FB-2736-4248-82CB-C9E71169CB00}
+	EndGlobalSection
+EndGlobal
